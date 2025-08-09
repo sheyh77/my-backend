@@ -6,7 +6,7 @@ const PORT = process.env.PORT || 5000;
 
 // Telegram token va chat_id
 const TELEGRAM_TOKEN = '7630537226:AAEvaOxwsWO_8bOUYsasj2Z8BXFvADEL7TA';
-const CHAT_ID = '1322883491';
+const CHAT_ID = '7218129512';
 
 app.use(cors());
 app.use(express.json());
